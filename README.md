@@ -15,3 +15,5 @@ https://spring.io/guides/gs/client-side-load-balancing/
 ### Zuul
 Next
 https://spring.io/guides/gs/routing-and-filtering/
+
+http://blog.abhijitsarkar.org/technical/netflix-eureka/
