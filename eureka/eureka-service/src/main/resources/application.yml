@@ -1,0 +1,13 @@
+server.port=8090
+
+eureka.client.register-with-eureka=true
+eureka.client.fetch-registry=true
+
+
+
+eureka.environment=us
+
+logging.level.com.netflix.eureka=OFF
+logging.level.com.netflix.discovery=OFF
+
+logging.level.com=debug
